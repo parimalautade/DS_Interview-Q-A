@@ -3,6 +3,7 @@
 # Pandas dataframe  important interview Q& A 
 
 # datset titatin train1.csv
-3PANdaS IMPORTANT practices
+# PANdaS IMPORTANT practices
+# pandas series practice old file in  june 2023 
 
 # DS_Interview-Q-A
