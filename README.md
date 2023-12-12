@@ -8,3 +8,5 @@
 # pandas series practice old file in  june 2023 
 
 # Pandas Dataframe 2 imp_interview practice Q&A REFER FOR PRACTICE AS WELL AS FOR INTERVIEW 
+# 
+# NUMPY IMPORTANT PRACTICE QUESTION PRACVICE DEC23
